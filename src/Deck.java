@@ -5,6 +5,8 @@
 import java.util.Collections;
 import java.util.Arrays;
 
+/** This class is for the deck of both players **/
+
 public class Deck {
     Card[] fullDeck = new Card[52];
     public Deck() {

@@ -4,6 +4,8 @@
 // 4/6/2021
 import java.util.ArrayList;
 
+/** This class is for the "hand" of the players **/
+
 public class Hand {
     ArrayList<Card> hand = new ArrayList<Card>();
     public Hand(){
