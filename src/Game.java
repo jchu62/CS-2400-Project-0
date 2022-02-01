@@ -4,6 +4,8 @@
 // 4/6/2021
 import java.util.Scanner;
 
+/** This version of Blackjack is 1.0 **/
+
 public class Game{
     public static void main(String [] args){
         Deck deck = new Deck();
